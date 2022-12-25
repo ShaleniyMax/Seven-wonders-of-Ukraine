@@ -135,28 +135,12 @@ html {
     font-size: 24px;      
 }
 
-.footer,
-.footer-list {
-display: flex;
-align-items: center;
+.footer {
+
+text-align: center;
 margin-top: 0px;
 margin-bottom: 0px;
-}
-
-.footer-list {
-    align-items: flex-end;
-    list-style: none; 
-}
-
-.footer-item {
-    margin-left: 20px;
-}
-
-.footer-logo {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: 200px;
-    color: white;
+color: white;
 }
 
 
